@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/A_Test_life_universe_and_everything/A_Test_life_universe_and_everything.iml" filepath="$PROJECT_DIR$/A_Test_life_universe_and_everything/A_Test_life_universe_and_everything.iml" />
+      <module fileurl="file://$PROJECT_DIR$/B_Prime_Generator/B_Prime_Generator.iml" filepath="$PROJECT_DIR$/B_Prime_Generator/B_Prime_Generator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/C_Palindrome/C_Palindrome.iml" filepath="$PROJECT_DIR$/C_Palindrome/C_Palindrome.iml" />
+      <module fileurl="file://$PROJECT_DIR$/D_Merging_Numbers/D_Merging_Numbers.iml" filepath="$PROJECT_DIR$/D_Merging_Numbers/D_Merging_Numbers.iml" />
+      <module fileurl="file://$PROJECT_DIR$/E_PESEL/E_PESEL.iml" filepath="$PROJECT_DIR$/E_PESEL/E_PESEL.iml" />
+      <module fileurl="file://$PROJECT_DIR$/F_Apples/F_Apples.iml" filepath="$PROJECT_DIR$/F_Apples/F_Apples.iml" />
+      <module fileurl="file://$PROJECT_DIR$/G_JRowling/G_JRowling.iml" filepath="$PROJECT_DIR$/G_JRowling/G_JRowling.iml" />
+      <module fileurl="file://$PROJECT_DIR$/H_Letter_Counter/H_Letter_Counter.iml" filepath="$PROJECT_DIR$/H_Letter_Counter/H_Letter_Counter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/I_JSpace/I_JSpace.iml" filepath="$PROJECT_DIR$/I_JSpace/I_JSpace.iml" />
+      <module fileurl="file://$PROJECT_DIR$/J_HashIt/J_HashIt.iml" filepath="$PROJECT_DIR$/J_HashIt/J_HashIt.iml" />
+      <module fileurl="file://$PROJECT_DIR$/K_InterestingNumber/K_InterestingNumber.iml" filepath="$PROJECT_DIR$/K_InterestingNumber/K_InterestingNumber.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Spoj_Exercises.iml" filepath="$PROJECT_DIR$/Spoj_Exercises.iml" />
+    </modules>
+  </component>
+</project>

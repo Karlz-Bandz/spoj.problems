@@ -1,6 +1,7 @@
 # spoj.problems
 The Spoj problems and solutions
 
+----------------------------------------------------------------------------------------------------------------
 
 Module L_Jasiek
 
@@ -15,3 +16,31 @@ finishes after going around the picture once. The length of the description does
 Output
 For every testcase your program should write (to the standard output) only one line with one integer, equal to the number of coloured squares in Jasiek's
 picture.
+
+-----------------------------------------------------------------------------------------------------------------
+
+Module M_Sum
+
+In the first line, the number of tests t. In each of the following t lines, there is only one number 1 ≤ n ≤ 20
+
+For each test, on separate lines, all possible sets of natural numbers whose elements add up to n. Strings should be given in lexicographical order, each string on one line.
+
+Example
+Input:
+2
+1
+5
+
+Output:
+1
+
+1 1 1 1 1 
+1 1 1 2 
+1 1 3 
+1 2 2 
+1 4 
+2 3 
+5 
+----------------------------------------------------------------------------------------------------------------------
+
+
